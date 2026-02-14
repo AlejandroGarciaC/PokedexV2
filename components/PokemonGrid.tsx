@@ -65,7 +65,7 @@ export default function PokemonGrid({ pokemons }: { pokemons: Pokemon[] }) {
             
             {/* Texto Opcional (puedes borrarlo si solo quieres el corazón) */}
             <h2 className="text-white text-5xl md:text-7xl font-black tracking-widest mt-8 drop-shadow-lg animate-bounce">
-                Te amo
+                Te amo, feliz San Valentín
             </h2>
         </div>
       )}
